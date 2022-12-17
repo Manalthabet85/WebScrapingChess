@@ -1,11 +1,21 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import requests
 import pandas
+import time
 
-'''driver = webdriver.Chrome()
-driver.get("https://lichess.org/@/Manal_Th3/bookmark")'''
-driver = requests.get('https://lichess.org/@/Manal_Th3/bookmark')
+driver = webdriver.Chrome()
+driver.get("https://lichess.org/@/Manal_Th3/bookmark")
+
+initialLength = 0
+currentLength = driver.execute_script("return document.body.scrollHeight;")
+
+while initialLength != currentLength:
+    initialLength = currentLength
+    driver.execute_script("window.scrollTo(0,document.body.scrollHeight);")
+    time.sleep(3)
+    currentLength = driver.execute_script("return document.body.scrollHeight;")
+
+
 chessFormat = []
 matchDate = []
 whitePlayerName = []
@@ -15,7 +25,7 @@ blackPlayerRate = []
 results = []
 openings = []
 
-content = driver.content
+content = driver.page_source
 soup = BeautifulSoup(content, 'html.parser')
 bio = soup.find('p', attrs={'class':'bio'})
 print(bio.text)

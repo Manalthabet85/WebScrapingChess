@@ -1,13 +1,47 @@
 Chess Game Format,Match Date,White Player Name,White Player Rate,Black Player Name,Black Player Rate,Results,Openings
-10+0 - Rapid - Rated, 2 months ago,Manal_Th3,2017 ,ReyAzteca40,2041 ,Black resigned - White is victorious,Benoni Defense: Classical Variation
-10+0 - Rapid - Rated, 2 months ago,Manal_Th3,2010 ,Stilianok,2068 ,Black resigned - White is victorious,Queen's Gambit Declined
-10+0 - Rapid - Rated, 2 months ago,Fe_7,2113 ,Manal_Th3,1976 ,White resigned - Black is victorious,Modern Defense: Two Knights Variation
-10+0 - Rapid - Rated, 4 months ago,Say_tFun,2043 ,Manal_Th3,2043 ,White resigned - Black is victorious,Pirc Defense
-10+0 - Rapid - Rated, 4 months ago,Manal_Th3,1994 ,alex4281,1987 ,Checkmate - White is victorious,Queen's Gambit Declined: Janowski Variation
-10+0 - Chess960 - Rated, 4 months ago,aockennex,1525? ,Manal_Th3,1549? ,Checkmate - Black is victorious,1. e4 Nc6 2. f3 f6 3. Be2 Nd6 ... 36 moves 
-5+3 - Blitz - Rated, 4 months ago,Harry_Dresden,1945 ,Manal_Th3,1906 ,Checkmate - Black is victorious,Pirc Defense
-10+0 - Rapid - Rated, 5 months ago,Manal_Th3,2000 ,MO_EZZAT,2055 ,Black resigned - White is victorious,Semi-Slav Defense: Accelerated Move Order
-10+0 - Rapid - Rated, 5 months ago,Temarpa,2047 ,Manal_Th3,1993 ,White resigned - Black is victorious,Zukertort Opening: Pirc Invitation
-10+0 - Rapid - Rated, 5 months ago,ARD-012,2038 ,Manal_Th3,1988 ,White resigned - Black is victorious,Modern Defense: Two Knights Variation
-10+0 - Rapid - Rated, 5 months ago,Manal_Th3,1980 ,Ehliddar,2096 ,Black resigned - White is victorious,Queen's Gambit Accepted
-10+0 - Rapid - Rated, 5 months ago,talebalamry,2094 ,Manal_Th3,1972 ,White time out - Black is victorious,Pirc Defense
+10+0 - Rapid - Rated,"Sep 23, 2022, 4:30 PM",Manal_Th3,2017 ,ReyAzteca40,2041 ,Black resigned - White is victorious,Benoni Defense: Classical Variation
+10+0 - Rapid - Rated,"Sep 23, 2022, 4:14 PM",Manal_Th3,2010 ,Stilianok,2068 ,Black resigned - White is victorious,Queen's Gambit Declined
+10+0 - Rapid - Rated,"Sep 17, 2022, 6:24 PM",Fe_7,2113 ,Manal_Th3,1976 ,White resigned - Black is victorious,Modern Defense: Two Knights Variation
+10+0 - Rapid - Rated,"Jul 28, 2022, 1:08 AM",Say_tFun,2043 ,Manal_Th3,2043 ,White resigned - Black is victorious,Pirc Defense
+10+0 - Rapid - Rated,"Jul 27, 2022, 2:55 PM",Manal_Th3,1994 ,alex4281,1987 ,Checkmate - White is victorious,Queen's Gambit Declined: Janowski Variation
+10+0 - Chess960 - Rated,"Jul 27, 2022, 1:53 AM",aockennex,1525? ,Manal_Th3,1549? ,Checkmate - Black is victorious,1. e4 Nc6 2. f3 f6 3. Be2 Nd6 ... 36 moves 
+5+3 - Blitz - Rated,"Jul 21, 2022, 3:18 AM",Harry_Dresden,1945 ,Manal_Th3,1906 ,Checkmate - Black is victorious,Pirc Defense
+10+0 - Rapid - Rated,"Jun 26, 2022, 8:05 PM",Manal_Th3,2000 ,MO_EZZAT,2055 ,Black resigned - White is victorious,Semi-Slav Defense: Accelerated Move Order
+10+0 - Rapid - Rated,"Jun 26, 2022, 10:23 AM",Temarpa,2047 ,Manal_Th3,1993 ,White resigned - Black is victorious,Zukertort Opening: Pirc Invitation
+10+0 - Rapid - Rated,"Jun 26, 2022, 1:52 AM",ARD-012,2038 ,Manal_Th3,1988 ,White resigned - Black is victorious,Modern Defense: Two Knights Variation
+10+0 - Rapid - Rated,"Jun 26, 2022, 1:46 AM",Manal_Th3,1980 ,Ehliddar,2096 ,Black resigned - White is victorious,Queen's Gambit Accepted
+10+0 - Rapid - Rated,"Jun 25, 2022, 8:47 PM",talebalamry,2094 ,Manal_Th3,1972 ,White time out - Black is victorious,Pirc Defense
+10+0 - Rapid - Rated,"Jun 24, 2022, 8:25 PM",Manal_Th3,1934 ,MicrowaveV,2092 ,Black resigned - White is victorious,Benoni Defense: Hromádka System
+10+0 - Rapid - Rated,"May 22, 2022, 1:09 PM",Hippolicious,2041 ,Manal_Th3,1946 ,White resigned - Black is victorious,Pirc Defense
+10+0 - Rapid - Rated,"May 21, 2022, 12:52 PM",addisinia,2002 ,Manal_Th3,1935 ,White resigned - Black is victorious,Queen's Pawn Game
+3+2 - Blitz - Rated,"May 20, 2022, 9:39 PM",Mohammed_Sayed2020,1990 ,Manal_Th3,1853 ,White resigned - Black is victorious,Modern Defense: Averbakh System
+3+2 - Blitz - Rated,"May 11, 2022, 12:05 AM",wehba_wehba,1966 ,Sebaa2008,1774 ,Black resigned - White is victorious,Bird Opening
+7+2 - Rapid - Rated,"May 5, 2022, 8:01 PM",Manal_Th3,1910 ,nawras1123,2185 ,Insufficient material - Draw,Nimzo-Indian Defense: Leningrad Variation
+2+1 - Bullet - Rated,"Apr 27, 2022, 7:22 PM",DavidRQ,1638 ,Manal_Th3,1681 ,Checkmate - Black is victorious,Hungarian Opening
+7+3 - Rapid - Rated,"Apr 5, 2022, 11:25 PM",mark_ramzy2277,,Manal_Th3,1896 ,White time out - Black is victorious,Modern Defense: Two Knights Variation
+5+4 - Blitz - Casual,"Mar 29, 2022, 12:03 AM",MindSeparation,2295,Manal_Th3,1745,Checkmate - Black is victorious,Zukertort Opening: Pirc Invitation
+10+3 - Rapid - Casual,"Mar 19, 2022, 10:02 AM",Manal_Th3,1879,Kerooo_2020,1500?,Checkmate - Black is victorious,"Slav Defense: Slav Gambit, Alekhine Attack"
+10+0 - Rapid - Rated,"Feb 28, 2022, 3:55 PM",lodrice,1894 ,Manal_Th3,1849 ,White resigned - Black is victorious,Modern Defense: Kotov Variation
+10+0 - Rapid - Rated,"Feb 24, 2022, 11:45 PM",Manal_Th3,1848 ,catarino,1846 ,Black resigned - White is victorious,Benoni Defense: Old Benoni
+3+0 - Blitz - Casual,"Feb 12, 2022, 12:42 AM",Manal_Th3,1800,Besho-Fayez,1909,Black time out - White is victorious,Queen's Gambit Declined: Austrian Defense
+3+2 - Blitz - Rated,"Jan 18, 2022, 3:47 PM",Siram1,1688 ,Manal_Th3,1716 ,Checkmate - Black is victorious,Pirc Defense
+3+2 - Blitz - Rated,"Jan 12, 2022, 10:27 PM",Manal_Th3,,NassarHassan,1587 ,Checkmate - White is victorious,Queen's Gambit Declined
+5+5 - Rapid - Rated,"Jan 10, 2022, 2:39 PM",Manal_Th3,1824 ,Rawash_Eid,1860 ,Checkmate - White is victorious,Queen's Gambit Declined: Marshall Defense
+2+1 - Bullet - Rated,"Jan 9, 2022, 11:43 PM",Manal_Th3,1651 ,corle007,1623 ,Black resigned - White is victorious,Nimzo-Indian Defense: Leningrad Variation
+2+1 - Bullet - Rated,"Jan 5, 2022, 1:10 AM",ZwetschenKnoedel,1658 ,Manal_Th3,1651 ,White resigned - Black is victorious,Van't Kruijs Opening
+3+2 - Blitz - Casual,"Jan 1, 2022, 2:28 AM",Manal_Th3,1746,Besho-Fayez,1169?,White resigned - Black is victorious,Queen's Gambit Declined
+10+0 - Rapid - Casual,"Dec 26, 2021, 12:37 AM",Abdurrahmanm1,1617,Manal_Th3,1907,Checkmate - Black is victorious,Nimzo-Larsen Attack
+7+2 - Rapid - Rated,"Dec 22, 2021, 10:46 PM",Ashrafmamdoh,1919 ,Manal_Th3,1867 ,Checkmate - Black is victorious,Pirc Defense
+7+2 - Rapid - Rated,"Dec 22, 2021, 9:57 PM",Manal_Th3,1854 ,Alaa39,2287 ,Black resigned - White is victorious,Slav Defense
+7+2 - Rapid - Rated,"Dec 22, 2021, 11:20 PM",Manal_Th3,1873 ,rihahmed01,2079 ,Checkmate - White is victorious,Indian Defense: Normal Variation
+3+2 - Blitz - Casual,"Oct 7, 2021, 3:21 PM",Besho-Fayez,1500?,Manal_Th3,1613,Checkmate - Black is victorious,Modern Defense
+10+0 - Rapid - Rated,"Oct 1, 2021, 11:51 PM",Manal_Th3,1825 ,Mina_safwat_hakem,1814 ,Black resigned - White is victorious,Queen's Gambit Accepted
+3+2 - Blitz - Rated,"Oct 1, 2021, 3:36 PM",Estarel,1692 ,Manal_Th3,1611 ,Checkmate - Black is victorious,Pirc Defense: Classical Variation
+3+0 - Blitz - Rated,"Sep 30, 2021, 6:00 PM",Manal_Th3,1593 ,Mrreg,1605 ,Checkmate - White is victorious,Queen's Gambit Declined
+5+3 - Blitz - Casual,"Sep 19, 2021, 6:26 PM",Manal_Th3,1583,SKy_Fall,2301,Black time out - White is victorious,Queen's Gambit Declined: Normal Defense
+10+3 - Rapid - Casual,"Sep 19, 2021, 8:15 PM",Manal_Th3,1812,MiladSamir,1667,Black resigned - White is victorious,Queen's Gambit Declined
+10+3 - Rapid - Casual,"Sep 19, 2021, 7:52 PM",Manal_Th3,1812,MiladSamir,1667,Black resigned - White is victorious,Queen's Gambit Declined
+5+3 - Blitz - Rated,"Sep 11, 2021, 11:40 PM",leonardostasi011091,1498 ,Manal_Th3,1559 ,White resigned - Black is victorious,Pirc Defense: Classical Variation
+10+5 - Rapid - Rated,"Aug 24, 2021, 2:24 PM",Manal_Th3,1799 ,Nitubo,1748 ,Black resigned - White is victorious,"Queen's Gambit Declined: Modern Variation, Normal Line"
+4+1 - Blitz - Rated,"May 15, 2021, 8:11 PM",Manal_Th3,1439 ,Marwan_Mahmoud,1458 ,Checkmate - White is victorious,King's Indian Defense: Accelerated Averbakh Variation
+30+0 - Classical - Casual,"May 19, 2021, 8:05 PM",Manal_Th3,1470?,MiladSamir,1500?,Checkmate - White is victorious,Hungarian Opening
